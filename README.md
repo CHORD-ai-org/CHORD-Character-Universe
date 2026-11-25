@@ -1,114 +1,117 @@
 # CHORD Character Universe
-### Brand Manifesto · Version 1.0
+### Brand Manifesto · Flat Graphic Edition
 
 **An Alphabet of Living Forms.**
 
 ## 01. Our Vision
 
-CHORD believes that abstract ideas deserve tangible identities.
+CHORD is building a universe where abstract symbols become recognizable identities.
 
-We build systems, frameworks, and computational environments. Yet the things we create do not have to remain invisible, mechanical, or impersonal.
+Our visual universe begins with the Greek alphabet — a collection of symbols with distinctive structures, histories, and mathematical elegance.
 
-We choose the Greek alphabet as the foundation of our visual universe.
+We transform these symbols into a family of abstract graphic characters.
 
-Not as decoration. Not as labels.
+They are not conventional mascots, cartoon figures, or miniature robots.
 
-As the genetic material of a new family of abstract characters.
+They are visual entities with their own silhouettes, personalities, and graphic identities.
 
-Each character begins with a symbol and evolves into a living form — possessing its own geometry, materiality, personality, and behavior.
-
-We call this universe **CHORD Character Universe**.
+We call this universe the CHORD Character Universe.
 
 ## 02. The Philosophy
 
-**A symbol is not merely something to recognize. It is something to inhabit.**
+**Personality does not require a face.**
 
-Our characters are not conventional robots, anthropomorphic assistants, or generic AI mascots.
+A character does not need eyes, a mouth, arms, or legs to feel alive.
 
-They are abstract entities.
+It can communicate through:
+- Silhouette and proportion.
+- Geometric composition.
+- Negative space.
+- Curves, intersections, and structural tension.
+- Color and visual rhythm.
+- Distinctive graphic behavior.
 
-They do not need eyes, mouths, limbs, or human anatomy to communicate personality.
+We believe abstract forms can be expressive, memorable, and emotionally engaging.
 
-Their identities emerge through:
-- Form — distinctive geometric structures.
-- Material — tangible physical presence.
-- Motion — individual behavioral patterns.
-- Composition — the relationship between their structural elements.
-- Character — an identity that exists beyond their assigned function.
-
-We believe personality can exist without a face.
+Our characters should feel alive without becoming anthropomorphic.
 
 ## 03. Greek Letters as DNA
 
 Every character originates from a Greek letter.
 
-The letter is its structural DNA, not a graphic accessory.
+The letter is not an accessory placed on a character. It is the foundation of its visual anatomy.
 
-Its topology, curves, intersections, openings, proportions, and directional properties should influence the resulting character.
+We follow a transformation process:
 
-However, literal typography is not our final destination.
+**Glyph → Graphic Structure → Character Identity.**
 
-We seek a transformation:
+We reinterpret the letter through geometric simplification, structural deformation, overlapping shapes, cutouts, and negative space.
 
-**Glyph → Geometry → Organic Form → Character.**
+The final result should retain a recognizable relationship with its Greek-letter origin while becoming an independent character.
 
-The resulting character should retain a recognizable relationship with its original letter without looking like an ordinary three-dimensional font.
+It should not look like ordinary typography.
 
 ## 04. Visual Language
 
-The CHORD visual language combines three principles:
+The CHORD graphic language combines three principles.
 
-**Geometric Sculpture**
+**Geometric Clarity**
 
-Clear structural foundations, recognizable silhouettes, deliberate proportions, and carefully constructed volumes.
+Distinctive shapes, deliberate proportions, controlled curves, and clear silhouettes.
 
 **Organic Abstraction**
 
-Unexpected curves, asymmetry, fluid transitions, and forms that suggest life without imitating biological organisms.
+Asymmetry, fluid transitions, unexpected structures, and playful visual tension.
 
-**Synthetic Materiality**
+**Graphic Simplicity**
 
-A controlled combination of ceramic, translucent glass, polished metal, soft polymer, and other contemporary materials.
+Flat colors, clean edges, minimal details, and strong use of negative space.
 
-Our visual language should feel sophisticated, playful, experimental, and timeless.
+Our characters should be immediately recognizable at small sizes.
 
-We reject generic cyberpunk aesthetics, excessive neon, conventional robot anatomy, and interchangeable blob mascots.
+We prioritize graphic identity over decorative complexity.
 
 ## 05. Individuality Within Unity
 
-Every character must belong to the same visual universe without looking like a recolored version of another character.
+Every character belongs to the same visual family, but each must have a distinct visual identity.
 
-Shared design principles establish family resemblance.
+Shared principles:
+- Consistent graphic construction.
+- Consistent visual weight.
+- Consistent edge and curve language.
+- A restrained and coordinated color system.
+- A common level of abstraction.
 
-Individual geometry, proportions, material choices, and motion establish identity.
+Individuality:
+- Different silhouettes.
+- Different geometric structures.
+- Different proportions.
+- Different personalities.
+- Different graphic rhythms.
 
-No character should be defined exclusively by its color.
+We do not create six recolored versions of one character.
 
-No character should be forced into a standardized body structure.
+## 06. Personality Without Faces
 
-Unity comes from visual grammar, not anatomical uniformity.
+Our characters communicate through their forms.
 
-## 06. Personality Without Anthropomorphism
+A curious character may be open, asymmetric, and directional.
 
-Our characters communicate through their physical existence.
+A playful character may be elastic, irregular, and visually dynamic.
 
-A curious character may have an open, asymmetric structure.
+An analytical character may be precise, balanced, and structurally composed.
 
-A calm character may possess balanced proportions and slow, deliberate motion.
+A calm character may use simple, stable, and harmonious forms.
 
-A playful character may be elastic, irregular, and kinetic.
+These are creative directions, not rigid stereotypes.
 
-These are design possibilities, not mandatory stereotypes.
-
-Personality must emerge naturally from the character's geometry and behavior.
+Personality should emerge from the geometry itself.
 
 ## 07. The Character Universe
 
-CHORD owns the universe.
+CHORD owns the complete character universe.
 
-Individual products, frameworks, and systems may adopt characters from this universe as their identities.
-
-The first generation consists of six foundational characters:
+The first generation contains six foundational characters:
 
 - α — Alpha
 - β — Beta
@@ -117,35 +120,42 @@ The first generation consists of six foundational characters:
 - λ — Lambda
 - τ — Tau
 
-Tau serves as the core character of Thylas.
+Tau is the signature character of Thylas.
 
-Other characters may eventually represent CHORD products, systems, agents, or independent brand identities.
+Other characters may represent CHORD products, systems, agents, or independent brand identities.
 
-Not every character needs a functional assignment.
+However, characters are not required to represent specific software functions.
 
-They are brand assets first, functional symbols second.
+They are brand identities first.
 
-## 08. Design Principles
+## 08. Design Standards
 
-Every official CHORD character must satisfy five requirements:
+Every official character must satisfy the following requirements:
 
-1. **Distinctive:** Its silhouette must remain recognizable without color or surface details.
-2. **Symbolic:** Its Greek-letter origin must influence its construction.
-3. **Expressive:** Its personality must be communicable without conventional facial features.
-4. **Consistent:** It must belong naturally to the CHORD visual universe.
-5. **Expandable:** It must support animation, interaction, multiple poses, and future applications.
+1. Recognizable silhouette, even in monochrome.
+2. Clear structural relationship with its Greek letter.
+3. Distinct personality without conventional facial features.
+4. Flat graphic construction without 3D rendering.
+5. Scalability across icons, illustrations, animations, and merchandise.
+6. Consistency with the broader CHORD visual language.
 
-## 09. Beyond Mascots
+## 09. What We Reject
 
-We are not building a collection of mascots.
+We reject generic AI mascots, conventional cartoon anatomy, random geometric blobs, excessive decoration, gradients used as substitutes for form, and unnecessary futuristic effects.
 
-We are building a visual culture.
+We do not want characters that look like interchangeable stickers.
 
-Our characters should exist naturally across websites, software interfaces, digital environments, animations, merchandise, and community spaces.
+We want a distinctive visual species.
 
-They should be recognizable even outside the products they represent.
+## 10. Beyond Mascots
 
-They should be worth remembering even when they are doing nothing.
+The CHORD Character Universe is not simply a collection of illustrations.
+
+It is a visual culture that can evolve across products, software, communities, publications, animations, and physical objects.
+
+Each character should be memorable independently of the product it represents.
+
+Each should have a recognizable identity even when reduced to a simple silhouette.
 
 **CHORD Character Universe**
 
